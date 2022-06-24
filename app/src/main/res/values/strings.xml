@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DefualtSpinnerActivity</string>
+    
+    <string-array name="coursesArray">
+
+        <item>C</item>
+        <item>Data structures</item>
+        <item>Interview prep</item>
+        <item>Algorithms</item>
+        <item>DSA with java</item>
+        <item>OS</item>
+
+
+
+
+    </string-array>
+</resources>
